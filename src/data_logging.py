@@ -1,1 +1,1 @@
-"""Data logging."""
+"""Enhanced data logging module."""
