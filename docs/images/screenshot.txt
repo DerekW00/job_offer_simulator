@@ -1,0 +1,11 @@
+# Screenshot placeholder
+
+When you run the simulator, take a screenshot of the application and save it as screenshot.png in this directory.
+
+Example command:
+```bash
+# Take a screenshot and save it here
+cp your_screenshot.png docs/images/screenshot.png
+```
+
+This will be displayed in the README.md file. 
