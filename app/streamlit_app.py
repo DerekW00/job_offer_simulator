@@ -1,1 +1,1 @@
-"""Streamlit application for visualizing job offer forecasts."""
+"""Enhanced Streamlit application with visualization."""
